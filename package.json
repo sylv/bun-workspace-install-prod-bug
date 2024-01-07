@@ -3,5 +3,11 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "p-limit": "^5.0.0"
+  },
+  "dependencies": {
+    "p-retry": "^6.2.0"
+  }
 }
