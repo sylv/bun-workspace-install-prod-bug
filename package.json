@@ -1,0 +1,7 @@
+{
+  "name": "bun-workspace-install-prod-bug",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

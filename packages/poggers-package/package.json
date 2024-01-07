@@ -1,0 +1,10 @@
+{
+  "name": "poggers-package",
+  "version": "1.0.0",
+  "devDependencies": {
+    "sharp": "^0.33.1"
+  },
+  "dependencies": {
+    "p-queue": "^8.0.1"
+  }
+}
